@@ -4,98 +4,46 @@
 	import github from '$lib/images/github.svg';
 </script>
 
-<header>
-	<div class="corner">
-		<a href="https://kit.svelte.dev">
-			<img src={logo} alt="SvelteKit" />
+<header class="flex justify-between">
+	<div class="w-[3em] h-[3em]">
+		<a 
+			class="flex items-center justify-center w-full h-full"
+			href="https://kit.svelte.dev">
+			<img class="w-[2em] h-[2em] object-contain" src={logo} alt="SvelteKit" />
 		</a>
 	</div>
 
-	<nav>
-		<svg viewBox="0 0 2 3" aria-hidden="true">
-			<path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" />
+	<nav class="flex justify-center">
+		<svg class="fill-white/70 h-[3em] w-[2em] block" viewBox="0 0 2 3" aria-hidden="true">
+			<path class="bg-white/70" d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" />
 		</svg>
-		<ul>
-			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
-				<a href="/">Home</a>
+		<ul class="relative p-0 m-0 h-[3em] flex justify-center items-center list-none bg-contain bg-white/70 space-x-4">
+			<li 
+				class="relative h-full" aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
+				<a class="flex h-full items-center py-[0.5rem] font-bold text-xs uppercase text tracking-wide transition-colors no-underline text-slate-800" href="/">Home</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/about' ? 'page' : undefined}>
-				<a href="/about">About</a>
+			<li class="relative h-full" aria-current={$page.url.pathname === '/about' ? 'page' : undefined}>
+				<a class="flex h-full items-center py-[0.5rem] font-bold text-xs uppercase text tracking-wide transition-colors no-underline text-slate-800" href="/about">About</a>
 			</li>
-			<li aria-current={$page.url.pathname.startsWith('/sverdle') ? 'page' : undefined}>
-				<a href="/sverdle">Sverdle</a>
+			<li class="relative h-full" aria-current={$page.url.pathname.startsWith('/sverdle') ? 'page' : undefined}>
+				<a class="flex h-full items-center py-[0.5rem] font-bold text-xs uppercase text tracking-wide transition-colors no-underline text-slate-800" href="/sverdle">Sverdle</a>
 			</li>
 		</ul>
-		<svg viewBox="0 0 2 3" aria-hidden="true">
-			<path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" />
+		<svg class="fill-white/70 h-[3em] w-[2em] block" viewBox="0 0 2 3" aria-hidden="true">
+			<path class="bg-white" d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" />
 		</svg>
 	</nav>
 
-	<div class="corner">
-		<a href="https://github.com/sveltejs/kit">
-			<img src={github} alt="GitHub" />
+	<div class="w-[3em] h-[3em]">
+		<a
+			class="flex items-center justify-center w-full h-full" 
+			href="https://github.com/sveltejs/kit">
+			<img class="w-[2em] h-[2em] object-contain" src={github} alt="GitHub" />
 		</a>
 	</div>
 </header>
 
 <style>
-	header {
-		display: flex;
-		justify-content: space-between;
-	}
-
-	.corner {
-		width: 3em;
-		height: 3em;
-	}
-
-	.corner a {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		width: 100%;
-		height: 100%;
-	}
-
-	.corner img {
-		width: 2em;
-		height: 2em;
-		object-fit: contain;
-	}
-
-	nav {
-		display: flex;
-		justify-content: center;
-		--background: rgba(255, 255, 255, 0.7);
-	}
-
-	svg {
-		width: 2em;
-		height: 3em;
-		display: block;
-	}
-
-	path {
-		fill: var(--background);
-	}
-
-	ul {
-		position: relative;
-		padding: 0;
-		margin: 0;
-		height: 3em;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		list-style: none;
-		background: var(--background);
-		background-size: contain;
-	}
-
-	li {
-		position: relative;
-		height: 100%;
-	}
 
 	li[aria-current='page']::before {
 		--size: 6px;
@@ -109,19 +57,7 @@
 		border-top: var(--size) solid var(--color-theme-1);
 	}
 
-	nav a {
-		display: flex;
-		height: 100%;
-		align-items: center;
-		padding: 0 0.5rem;
-		color: var(--color-text);
-		font-weight: 700;
-		font-size: 0.8rem;
-		text-transform: uppercase;
-		letter-spacing: 0.1em;
-		text-decoration: none;
-		transition: color 0.2s linear;
-	}
+	
 
 	a:hover {
 		color: var(--color-theme-1);
