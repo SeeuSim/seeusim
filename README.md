@@ -58,7 +58,7 @@ Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently
   - [Django ORM](https://docs.djangoproject.com/en/4.1/topics/db/queries/)
   - [Prisma](https://www.prisma.io)
   - [SQLAlchemy](http://www.sqlalchemy.org)
-- **API Librariess**
+- **API Libraries**
   - [TRPC](https://trpc.io)
   - [Django REST](https://www.django-rest-framework.org)
 - **Deployments**
