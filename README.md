@@ -1,6 +1,6 @@
 # **Introduction**
 
-Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently reading Computer Science, full-time at the National University of Singapore. I have some work in **TypeScript**, **Python**, and **Java**. Contact me if you have any questions!
+Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently reading Computer Science, full-time at the National University of Singapore. I have some experience in **TypeScript**, **Python**, and **Java**. Contact me if you have any questions!
 
 ## **Social Media**
 
