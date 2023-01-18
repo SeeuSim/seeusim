@@ -1,7 +1,7 @@
 <script lang="ts">
-	import { theme } from "./store";
+	import { theme, sideMenu } from "./store";
 	import { Icon } from "@steeze-ui/svelte-icon";
-	import { Moon, Sun } from "@steeze-ui/heroicons";
+	import { Bars3, Moon, Sun } from "@steeze-ui/heroicons";
 
 	let darkMode: boolean;
 	theme.subscribe(val => darkMode = val);
@@ -13,7 +13,7 @@
 		},
 		{
 			label: "skills",
-			href: "/skill"
+			href: "/skills"
 		},
 		{
 			label: "experience",
@@ -21,7 +21,7 @@
 		},
 		{
 			label: "projects",
-			href: "/projects"
+			href: "/sverdle"
 		}
 	];
 
@@ -33,9 +33,13 @@
 			Seeu Sim
 		</a>
 	</div>
+	
 	<div class="inline-flex space-x-4 items-center mr-4">
+		<div class="hidden smr:inline-flex text-xs">
+			Test
+		</div>
 		<!-- Nav Links -->
-		<ul class="inline-flex space-x-4">
+		<ul class="hidden sm:inline-flex space-x-4">
 		{ #each navLinks as nav, i}
 			<li>
 				<a href={nav.href}>
@@ -58,6 +62,16 @@
 				}
 			}>
 			<Icon class="h-8 w-8" src={darkMode? Sun: Moon}/>
+		</button>
+		<button 
+			class="p-2 mr-4 sm:hidden text-slate-800 dark:text-slate-100"
+			on:click={
+				() => {
+					sideMenu.update(val => true);
+				}
+			}
+			>
+			<Icon class="h-6 w-6" src={Bars3}/>
 		</button>
 	</div>
 </header>
