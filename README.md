@@ -78,6 +78,4 @@ Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently
   - [Vercel](vercel.com)
 
 ## **Work Stats**
-
-![Seeu Sim's Github stats](https://github-readme-stats.vercel.app/api?username=SeeuSim&show_icons=true)
 ![image](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=SeeuSim)
