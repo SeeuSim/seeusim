@@ -10,13 +10,7 @@
 </svelte:head>
 
 <section class="flex flex-col justify-center items-center flex-[0.6]">
-	<h1 class="w-full">
-		<span class="welcome block relative w-full h-0 pb-[24%]">
-			<picture>
-				<source srcset={welcome} type="image/webp" />
-				<img class="absolute w-full h-full top-0 block" src={welcome_fallback} alt="Welcome" />
-			</picture>
-		</span>
+	<h1 class="w-full text-black">
 		to your new<br />
 		SvelteKit app
 	</h1>
@@ -24,7 +18,5 @@
 	<h2 class="mt-4">
 		Try editing <strong>src/routes/+page.svelte</strong>
 	</h2>
-
-	<Counter />
 </section>
 
