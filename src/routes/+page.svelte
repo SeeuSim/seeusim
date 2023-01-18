@@ -8,13 +8,13 @@
 	<meta name="description" content="Seeu Sim's personal portfolio site" />
 </svelte:head>
 
-<section class="flex flex-col justify-center items-center flex-[0.6]">
+<section class="flex flex-col justify-center items-center flex-[0.6] p-6 sm:p-4">
 	<article 
 		class={`
 			prose lg:prose-xl
-			prose-h1:text-slate-700 dark:prose-h1:text-slate-200 prose-h1:text-6xl
-			prose-h2:text-slate-800 dark:prose-h2:text-slate-100 prose-h2:text-2xl prose-h2:text-center
-			prose-p:text-slate-800 dark:prose-p:text-slate-100 prose-p:text-lg
+			prose-h1:text-slate-700 dark:prose-h1:text-slate-200 prose-h1:text-3xl prose-h1:sm:text-6xl
+			prose-h2:text-slate-800 dark:prose-h2:text-slate-100 prose-h2:text-md prose-h2:sm:text-xl prose-h2:text-center
+			prose-p:text-slate-800 dark:prose-p:text-slate-100 prose-p:text-lg prose-p:sm:text-2xl
 		`}>
 		<h1>Hi, I'm Seeu Sim.</h1>
 		<p>
