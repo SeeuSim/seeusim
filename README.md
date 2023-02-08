@@ -84,5 +84,5 @@ Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently
   - [Vercel](vercel.com)
 
 ## **Work Stats**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SeeuSim&count_private=true&theme=nightowl)
-![image](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=SeeuSim)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-api-clone.vercel.app/api?username=SeeuSim&count_private=true&show_icons=true&theme=nightowl&hide_border=true" alt="Seeu Sim's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-api-clone.vercel.app/api/top-langs/?username=SeeuSim&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
