@@ -23,7 +23,7 @@ Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently
 [![React](https://skills.thijs.gg/icons?i=react)](https://github.com/SeeuSim/TikTokHangMan)
 [![Preact](https://miro.medium.com/max/42/1*Dy4YZMYqp_vQrB6chLsPJw.png)](https://github.com/SeeuSim/DogeTTM-FrontEnd/tree/main/frontend)
 
-**[Nodeflair Clone](https://nodeflair-clone-seeusim.vercel.app)**
+- **[Nodeflair Clone](https://nodeflair-clone-seeusim.vercel.app)**
 
 #### **Full-Stack/Backend**
 
