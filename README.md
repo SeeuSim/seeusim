@@ -16,19 +16,18 @@ Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently
 
 ### **Frameworks** (embedded with links to the projects)
 
-#### **Front-End**
 
-[![NextJS](https://skills.thijs.gg/icons?i=nextjs)](https://github.com/SeeuSim/dogehalla)
-[![SvelteKit](https://skills.thijs.gg/icons?i=svelte)](https://github.com/SeeuSim/seeusim)
-[![React](https://skills.thijs.gg/icons?i=react)](https://github.com/SeeuSim/TikTokHangMan)
-[![Preact](https://miro.medium.com/max/42/1*Dy4YZMYqp_vQrB6chLsPJw.png)](https://github.com/SeeuSim/DogeTTM-FrontEnd/tree/main/frontend)
+| **JavaScript Framework** |  Project Link |
+|--|--|
+| ![NextJS](https://skills.thijs.gg/icons?i=nextjs) | [NFInsight MVP](https://github.com/SeeuSim/dogehalla) |
+| ![SvelteKit](https://skills.thijs.gg/icons?i=svelte) | [Personal Website (WIP)](https://github.com/SeeuSim/seeusim) |
+| ![Preact](https://miro.medium.com/max/42/1*Dy4YZMYqp_vQrB6chLsPJw.png) | [NFInsight MVC](https://github.com/SeeuSim/DogeTTM-FrontEnd/tree/main/frontend) |
+| ![React](https://skills.thijs.gg/icons?i=react) | [Nodeflair Clone](https://nodeflair-clone-seeusim.vercel.app) |
 
-- **[Nodeflair Clone](https://nodeflair-clone-seeusim.vercel.app)**
-
-#### **Full-Stack/Backend**
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50px" />](https://github.com/SeeuSim/DogeTTM-FrontEnd/tree/main/backend)&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50px"/>](https://github.com/SeeuSim/NFinsighTAnalytics)
+| Python Framework | Link |
+|--|--|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50px"/> | [NFT ETL Server](https://github.com/SeeuSim/NFinsighTAnalytics) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50px" />| [NFInsight MVC](https://github.com/SeeuSim/DogeTTM-FrontEnd/tree/main/backend)&nbsp; |
           
 
 ### **Technologies**
