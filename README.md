@@ -14,8 +14,7 @@ Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently
 ## **Stuff I've Worked With**
 *(For both academic and personal projects, as well as internships)*
 
-### **Frameworks** (embedded with links to the projects)
-
+### **Frameworks**
 
 | **JavaScript Framework** |  Project Link |
 |--|--|
