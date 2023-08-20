@@ -30,7 +30,7 @@ Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently
 
 | Rust Project | Link |
 |--------|---------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> | [Learning Rust](https://github.com/SeeuSim/learning_rust) **(What I'm working on now!)** <br/> This is raw Rust - just for learning <br/><ul><li>Multi-project Rust Monorepo with Cargo</li></ul> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> | [Learning Rust](https://github.com/SeeuSim/learning_rust) **(What I'm working on now!)** <br/> This is raw Rust - just for learning <br/><ul><li>Multi-*crate* Rust Monorepo with Cargo</li></ul> |
           
 
 ### **Technologies**
