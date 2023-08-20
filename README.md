@@ -45,6 +45,7 @@ Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50px" />](#)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50px"/>](#)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50px"/>](#)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="50px"/>](#)
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
