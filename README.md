@@ -27,6 +27,10 @@ Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently
 |--|--|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50px"/> | [NFT ETL Server](https://github.com/SeeuSim/NFinsighTAnalytics) |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50px" />| [NFInsight MVC](https://github.com/SeeuSim/DogeTTM-FrontEnd/tree/main/backend)&nbsp; |
+
+| Rust Project | Link |
+|--------|---------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" /> | [Learning Rust](https://github.com/SeeuSim/learning_rust) **(What I'm working on now!)** <br/> This is raw Rust - just for learning <br/><ul><li>Multi-project Rust Monorepo with Cargo</li></ul> |
           
 
 ### **Technologies**
