@@ -52,6 +52,7 @@ Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently
 #### **Miscellaneous**
 
 [<img src="https://skills.thijs.gg/icons?i=babel,express,flask,gherkin,materialui,neovim,nginx,prisma,regex,scala,selenium,spring,tailwind,vercel,vim,vite,webpack&perline=9" />](#)
+
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 - **ORM**
