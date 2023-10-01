@@ -34,6 +34,10 @@ Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently
 
 [<img src="https://skills.thijs.gg/icons?i=dynamodb,mysql,postgres,rabbitmq,redis,sqlite,supabase" />](#)
 
+#### **Cloud**
+
+[<img src="https://skills.thijs.gg/icons?i=aws,azure,gcp,gitlab,docker,kubernetes" height="50px" />](#)
+
 #### **Machine Learning/Deep Learning**
 *(Mostly in Python)*
 
@@ -45,17 +49,10 @@ Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-#### **Crypto/NFT**
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-
-#### **Cloud**
-
-[<img src="https://skills.thijs.gg/icons?i=aws,azure,gcp,gitlab,docker,kubernetes" height="50px" />](#)
-
 #### **Miscellaneous**
 
 [<img src="https://skills.thijs.gg/icons?i=babel,express,flask,gherkin,materialui,neovim,nginx,prisma,regex,scala,selenium,spring,tailwind,vercel,vim,vite,webpack&perline=9" />](#)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 - **ORM**
   - [Django ORM](https://docs.djangoproject.com/en/4.1/topics/db/queries/)
