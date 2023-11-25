@@ -1,4 +1,0 @@
-import { writable } from "svelte/store";
-
-export const theme = writable(true);
-export const sideMenu = writable(false);
