@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/button';
 export const Nav = () => {
 	return (
 		<nav className='flex max-h-min w-full rounded-b-md border-x border-b border-border px-20 py-[30px] shadow-sm'>
-			<div className='flex w-full justify-between'>
+			<div className='inline-flex max-h-min w-full items-center justify-between'>
 				<Button variant='secondary' className='font-semibold'>
 					<span>Logo</span>
 				</Button>
