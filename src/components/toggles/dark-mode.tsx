@@ -43,7 +43,7 @@ export const DarkModeToggle = () => {
 			id='DarkModeToggle'
 			variant='outline'
 			className={cn(
-				'h-11 w-11 overflow-hidden rounded-md border p-0 transition-colors ease-in-out',
+				'h-9 w-9 overflow-hidden rounded-md border p-0 transition-colors ease-in-out',
 				'border-violet-600 text-violet-600 dark:border-yellow-600 dark:text-yellow-600',
 				'hover:bg-violet-600 hover:text-violet-100 dark:hover:bg-yellow-600 dark:hover:text-yellow-100'
 			)}
