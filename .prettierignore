@@ -1,13 +1,19 @@
-.DS_Store
+.next
 node_modules
-/build
-/.svelte-kit
-/package
-.env
-.env.*
-!.env.example
+public
 
-# Ignore files for PNPM, NPM and YARN
+*.ico
+*.md
+*.css
+
+.prettierrc
+.eslintrc.json
+tsconfig.json
+package.json
+components.json
+
 pnpm-lock.yaml
-package-lock.json
-yarn.lock
+
+next.config.js
+postcss.config.js
+tailwind.config.ts
