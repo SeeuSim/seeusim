@@ -2,7 +2,7 @@ import { Nav } from '@/components/sections/nav';
 
 export default function Home() {
 	return (
-		<main className='flex min-h-screen'>
+		<main className='mx-auto flex min-h-screen max-w-screen-xl'>
 			<Nav />
 		</main>
 	);
