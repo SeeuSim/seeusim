@@ -10,7 +10,7 @@ export const Logo = () => {
 	return (
 		<Link href='/'>
 			<Button variant='link' className='hover:text-muted-foreground hover:no-underline'>
-				<span className={cn('text-xl font-bold tracking-wide', font.className)}>SeeuSim</span>
+				<span className={cn('text-3xl font-bold tracking-wide', font.className)}>SeeuSim</span>
 			</Button>
 		</Link>
 	);

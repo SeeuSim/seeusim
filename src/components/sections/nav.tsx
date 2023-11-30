@@ -17,6 +17,8 @@ export const Nav = () => {
 		setScrollPosition(position);
 	};
 
+	const isAltStyle = scrollPosition > 14;
+
 	useEffect(() => {
 		window.addEventListener('scroll', handleScroll, { passive: true });
 		return () => {
@@ -27,18 +29,25 @@ export const Nav = () => {
 	return (
 		<nav
 			className={cn(
-				'fixed top-0 z-50 max-h-min w-full max-w-screen-xl rounded-b-md border-x border-b border-border px-20 py-[30px] shadow-sm transition-transform duration-300 ease-in-out',
-				scrollPosition > 14 && '-translate-y-1/4 scale-y-50 bg-primary-foreground bg-opacity-50'
+				'fixed top-0 z-50 max-h-min w-full max-w-screen-2xl rounded-b-md border-x border-b border-border px-20 py-[30px] shadow-sm transition-all duration-300 ease-in-out',
+				isAltStyle &&
+					'-translate-y-1/4 scale-y-50 rounded-b-2xl bg-blend-color-burn backdrop-blur-md'
 			)}
 		>
 			<div
 				className={cn(
 					'inline-flex max-h-min w-full items-center justify-between transition-transform duration-300 ease-in-out',
-					scrollPosition > 14 && 'scale-y-[2]'
+					isAltStyle && 'scale-y-[2]'
 				)}
 			>
 				<Logo />
-				<Badge variant='outline' className='hidden w-min !py-1 px-4 text-base font-bold md:flex'>
+				<Badge
+					variant='outline'
+					className={cn(
+						'hidden w-min !py-1 px-4 text-base font-bold md:flex',
+						isAltStyle && 'bg-secondary'
+					)}
+				>
 					<span>About</span>
 				</Badge>
 				<div className='inline-flex items-center gap-4'>
