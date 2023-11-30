@@ -30,8 +30,9 @@ export const DarkModeToggle = () => {
 				setIsDarkMode(event.matches);
 			});
 			if (
-				localStorage.getItem(LS_DARK_MODE_KEY) === 'true' ||
-				window.matchMedia(DARK_MODE_QUERY).matches
+				localStorage.getItem(LS_DARK_MODE_KEY) === 'true'
+				// ||
+				// window.matchMedia(DARK_MODE_QUERY).matches
 			) {
 				setIsDarkMode(true);
 			}
