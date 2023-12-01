@@ -3,7 +3,7 @@ import { cn } from '@/lib/utils';
 
 export const Hero = () => {
 	return (
-		<section className='flex min-h-[800px] w-full'>
+		<section className='flex min-h-[calc(100vh-196px)] w-full'>
 			<div className='flex w-full'>
 				<Card className='m-3 flex w-full flex-col gap-4 p-16'>
 					<CardTitle
