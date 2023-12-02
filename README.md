@@ -19,8 +19,7 @@ Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently
 | **JavaScript Framework** |  Project Link |  | Python Framework | Link | | Rust Project | Link |
 |--|--|--|--|--|--|--------|---------|
 | ![NextJS](https://skills.thijs.gg/icons?i=nextjs) | [NFInsight MVP](https://github.com/SeeuSim/dogehalla) | | <img src="https://skills.thijs.gg/icons?i=fastapi" height="50px"/> | [NFT ETL Server](https://github.com/SeeuSim/NFinsighTAnalytics) | | <img src="https://skills.thijs.gg/icons?i=rust" /> | [Learning Rust](https://github.com/SeeuSim/learning_rust) **(What I'm working on now!)** <br/> This is raw Rust - just for learning <br/><ul><li>Multi-*crate* Rust Monorepo with Cargo</li></ul> |
-| ![SvelteKit](https://skills.thijs.gg/icons?i=svelte) | [Personal Website (WIP)](https://github.com/SeeuSim/seeusim) | | <img src="https://skillicons.dev/icons?i=django" height="50px" />| [NFInsight MVC](https://github.com/SeeuSim/DogeTTM-FrontEnd/tree/main/backend)&nbsp; | | | |
-| ![Preact](https://miro.medium.com/max/42/1*Dy4YZMYqp_vQrB6chLsPJw.png) | [NFInsight MVC](https://github.com/SeeuSim/DogeTTM-FrontEnd/tree/main/frontend) | | | | | | |
+| ![Preact](https://miro.medium.com/max/42/1*Dy4YZMYqp_vQrB6chLsPJw.png) | [NFInsight MVC Frontend](https://github.com/SeeuSim/DogeTTM-FrontEnd/tree/main/frontend) | | <img src="https://skillicons.dev/icons?i=django"  height="50px" /> | [NFInsight MVC Backend](https://github.com/SeeuSim/DogeTTM-FrontEnd/tree/main/backend)&nbsp; | | | |
 | ![React](https://skills.thijs.gg/icons?i=react) | [Nodeflair Clone](https://nodeflair-clone-seeusim.vercel.app) | | | | | | |
 
 
