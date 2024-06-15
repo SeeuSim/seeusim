@@ -62,5 +62,6 @@ Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently
   - [Django REST](https://www.django-rest-framework.org)
 
 ## **Work Stats**
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-api-clone.vercel.app/api?username=SeeuSim&count_private=true&show_icons=true&theme=nightowl&hide_border=true" alt="Seeu Sim's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-api-clone.vercel.app/api/top-langs/?username=SeeuSim&layout=compact&hide_border=true" /></a> |
+
+| <a href="https://github-readme-stats-flax-omega.vercel.app"><img align="center" src="https://github-readme-stats-flax-omega.vercel.app/api?username=SeeuSim&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=nightowl&hide_border=true" alt="Seeu Sim's GitHub Stats" /></a> | <img src="https://github-readme-stats-flax-omega.vercel.app/api/top-langs/?username=seeusim&theme=nightowl&layout=compact&hide_border=true"/> |
 | ------------- | ------------- |
