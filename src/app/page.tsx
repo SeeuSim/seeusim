@@ -1,6 +1,5 @@
-import { Hero } from '@/components/sections/home/hero';
-import { Nav } from '@/components/sections/common/nav';
-
+import { Hero } from '@/components/sections/home';
+import { Nav } from '@/components/sections/common';
 import { cn } from '@/lib/utils';
 
 export default function Home() {

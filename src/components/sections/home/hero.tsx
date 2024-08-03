@@ -13,8 +13,8 @@ export const Hero = () => {
 						<span className='font-black'>experimenting with software.</span>
 					</CardTitle>
 					<CardDescription className='text-2xl'>
-						Currently a Software Engineer Intern at GovTech Singapore, and a <b>penultimate</b> NUS
-						CS undergraduate.
+						Currently {/*a Software Engineer at JPMorganChase, and*/}a <b>final-year</b> NUS CS
+						undergraduate.
 					</CardDescription>
 				</Card>
 			</div>
