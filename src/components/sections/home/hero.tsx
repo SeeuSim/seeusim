@@ -1,6 +1,14 @@
 import { Card, CardDescription, CardTitle } from '@/components/ui/card';
 import { cn } from '@/lib/utils';
 
+const _copyText = `
+Hi, I'm Seeu Sim, and I enjoy *experimenting*
+with software.
+
+I'm currently a *final-year* Computer Science
+undergraduate at the National University of Singapore.
+`;
+
 export const Hero = () => {
 	return (
 		<section className='flex min-h-[calc(100vh-196px)] w-full'>
