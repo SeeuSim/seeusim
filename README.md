@@ -79,5 +79,5 @@ Hi, I'm **Seeu Sim**. I'm an undergraduate student from Singapore. I'm currently
 
 ## **Work Stats**
 
-| <a href="https://github-readme-stats-flax-omega.vercel.app"><img align="center" src="https://github-readme-stats-flax-omega.vercel.app/api?username=SeeuSim&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=nightowl&hide_border=true" alt="Seeu Sim's GitHub Stats" /></a> | <img src="https://github-readme-stats-flax-omega.vercel.app/api/top-langs/?username=seeusim&theme=nightowl&layout=compact&hide_border=true"/> |
+| <a href="https://github-readme-stats-flax-omega.vercel.app"><img align="center" src="https://github-readme-stats-flax-omega.vercel.app/api?username=SeeuSim&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=nightowl&hide_border=true" alt="Seeu Sim's GitHub Stats" /></a> | <img src="https://github-readme-stats-flax-omega.vercel.app/api/top-langs/?username=seeusim&theme=nightowl&layout=compact&hide_border=true&hide=Jupyter%20Notebook"/> |
 | ------------- | ------------- |
