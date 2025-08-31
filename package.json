@@ -8,14 +8,17 @@
     "start": "react-router-serve ./build/server/index.js",
     "typecheck": "react-router typegen && tsc",
     "init-git-hooks": "husky init",
-    "prepare": "husky"
+    "prepare": "husky",
+    "fmt": "prettier --config .prettierrc --write .",
+    "lint": "eslint app",
+    "lint:fix": "eslint app --fix"
   },
   "lint-staged": {
-    "*.{js,jsx,ts,tsx}": [
+    "app/*.{js,jsx,ts,tsx}": [
       "prettier --write",
       "eslint --fix"
     ],
-    "*.{json,md,css,scss,html}": [
+    "*.{json,md,css,scss,html,ts}": [
       "prettier --write"
     ]
   },
@@ -35,6 +38,7 @@
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
     "eslint": "^9.34.0",
+    "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-react": "^7.37.5",
     "globals": "^16.3.0",
     "husky": "^9.1.7",
